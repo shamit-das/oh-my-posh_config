@@ -10,7 +10,7 @@
             "style": "full"
           },
           "style": "plain",
-          "template": "{{ .Path }} ",
+          "template": "shamit@macbook in {{ .Path }} ",
           "type": "path"
         },
         {
