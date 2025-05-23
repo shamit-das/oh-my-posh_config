@@ -5,7 +5,7 @@
       "alignment": "left",
       "segments": [
         {
-          "foreground": "#ffffff",
+          "foreground": "#0fd1de",
           "properties": {
             "style": "full"
           },
@@ -39,9 +39,9 @@
       "newline": true,
       "segments": [
         {
-          "foreground": "#007ACC",
+          "foreground": "#f49a13",
           "style": "plain",
-          "template": "\ue602",
+          "template": "->",
           "type": "text"
         }
       ],
