@@ -45,9 +45,9 @@
           "type": "root"
         },
         {
-          "foreground": "#CD4277",
+          "foreground": "#f06b0c",
           "style": "plain",
-          "template": "# ",
+          "template": "-> ",
           "type": "text"
         }
       ],
